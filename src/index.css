@@ -317,21 +317,27 @@ section {
   }
 }
 
-.hero-image-placeholder {
+.hero-image-container {
   width: 100%;
-  aspect-ratio: 1;
   display: flex;
-  align-items: center;
   justify-content: center;
-  border-radius: 50%;
-  border: 2px dashed var(--accent-dev);
-  color: var(--text-muted);
-  font-family: var(--font-mono);
-  background: var(--bg-card);
+  align-items: center;
 }
 
-.hero-image-placeholder span {
-  opacity: 0.7;
+.hero-profile-img {
+  width: 100%;
+  max-width: 400px;
+  aspect-ratio: 1;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 2px solid var(--accent-dev);
+  box-shadow: var(--glow-dev);
+  transition: var(--transition);
+}
+
+.hero-profile-img:hover {
+  transform: scale(1.02);
+  box-shadow: 0 0 25px rgba(74, 222, 128, 0.3);
 }
 
 .hero-tag {

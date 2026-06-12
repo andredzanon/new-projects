@@ -36,9 +36,12 @@ export default function Hero() {
             </div>
 
             <div className="hero-image-content">
-              {/* Substitua a div abaixo pela sua tag <img> */}
-              <div className="hero-image-placeholder glass-panel">
-                <span>Sua Foto Aqui</span>
+              <div className="hero-image-container">
+                <img 
+                  src="/André profissional.png" 
+                  alt="André Profissional" 
+                  className="hero-profile-img" 
+                />
               </div>
             </div>
           </div>
