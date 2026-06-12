@@ -1,19 +1,19 @@
 export const profileData = {
-  name: "Gestor & Analista em Transição para IA",
-  title: "De Diretor de TI de volta ao código.",
-  hook: "Passei os últimos anos coordenando sistemas que atendem uma cidade inteira. Agora, quero voltar a construir no fio da navalha da Inteligência Artificial.",
-  
+  name: "Gestor & Analista de Sistemas",
+  title: "Quero trazer a visão estratégica para o desenvolvimento das soluções!",
+  hook: "Passei os últimos anos transformando serviços públicos por meio da tecnologia. Agora, estou direcionando minha experiência para a construção de soluções impulsionadas por Inteligência Artificial.",
+
   stats: [
     { label: "Usuários Impactados", value: "30k+", detail: "UFPR e Município" },
-    { label: "Sistemas Implantados", value: "100%", detail: "Ponto Eletrônico UFPR" },
-    { label: "Secretarias Digitais", value: "10+", detail: "Fluxos de ERP em Araucária" },
+    { label: "Sistemas Implantados", value: "100%", detail: "Ponto Eletrônico UFPR, Chatbot, " },
+    { label: "Serviços Municipais Digitais", value: "10+", detail: "Fluxos de ERP em Araucária" },
     { label: "Foco Atual", value: "IA", detail: "Especialização IA p/ Negócios" }
   ],
 
   about: {
-    text1: "Minha trajetória na tecnologia começou no suporte técnico e atendimento ao cliente. Essa primeira experiência foi fundamental: me ensinou a escutar com empatia, a ser resolutivo e a traduzir a dor real do usuário em requisitos práticos de sistema. Com essa base, me formei em Análise de Sistemas na UTFPR, onde me aprofundei em IHC (Interação Humano-Computador) e Big Data para desenhar softwares mais inteligentes e humanos.",
-    text2: "Após a faculdade, atuei como desenvolvedor de software, criando do zero um sistema completo para acompanhamento de marcas e patentes. Lá aprendi a negociar cronogramas, modelar banco de dados e entregar releases sob pressão. Em 2019, ingressei no serviço público federal na UFPR, subindo rapidamente de técnico a Diretor de TI na PROGEPE, liderando a digitalização de processos no auge da pandemia de COVID-19.",
-    text3: "Atualmente, como Analista de Sistemas e Diretor na Prefeitura de Araucária, coordeno integrações complexas de ERP e a transição para a nova Secretaria de Ciência e Tecnologia. Mas sinto falta do impacto prático da engenharia de software pura. Por isso, estou me especializando em IA para Negócios, buscando retornar à execução técnica onde a palavra 'ágil' toma uma nova proporção: desenvolvendo, testando e subindo pipelines modernos de IA no mesmo dia."
+    text1: "Minha trajetória na tecnologia começou no suporte técnico e atendimento ao cliente. Essa primeira experiência me ensinou a escutar com empatia, a ser resolutivo e a traduzir a dor do usuário em requisitos práticos do sistema. Com essa base, me formei como Bacharel em Sistemas de Informação na UTFPR, onde me aprofundei em IHC (Interação Humano-Computador) e Big Data para desenhar softwares mais inteligentes e humanos.",
+    text2: "Após a faculdade, atuei como desenvolvedor de software, e criei um sistema completo para acompanhamento de marcas e patentes. Lá aprendi a negociar cronogramas, modelar banco de dados e controlar entregas. Em 2019, ingressei no serviço público federal na UFPR, e passei de técnico a Diretor de TI na PROGEPE, liderando a digitalização de processos no auge da pandemia de COVID-19.",
+    text3: "Atualmente, como Analista de Sistemas e Diretor na Prefeitura de Araucária, coordeno integrações complexas de ERP e participei da transição para a nova Secretaria de Ciência, Inovação e Tecnologia. Sinto falta do impacto prático da engenharia de software pura. Por isso, estou me especializando em Ciência de Dados com Inteligência Artificial, buscando retornar à execução técnica onde a palavra 'ágil' toma uma nova proporção: desenvolvendo, testando e subindo pipelines modernos de IA no mesmo dia."
   },
 
   pillars: [
